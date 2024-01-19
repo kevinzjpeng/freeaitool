@@ -13,6 +13,7 @@ theme:
     homepage: https://freeaitool.com
   features:
     - navigation.instant
+    - navigation.tabs
   font:
     text: Roboto
     code: Roboto Mono
@@ -48,5 +49,7 @@ extra:
 
 nav:
   - Home: index.md
-  - Getting started: getting-started.md
-  
+  - 博客:
+    - blog/index.md
+  - 工具:
+    - blog/index.md
