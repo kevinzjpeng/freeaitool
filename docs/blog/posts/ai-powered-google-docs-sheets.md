@@ -4,8 +4,13 @@ date: 2023-07-22
 authors: [kevinpeng]
 slug: ai-powered-google-docs-sheets
 categories:
-  - 知识
+  - AI助手
+tags:
+  - AI
+  - Google Docs
+  - Google Sheet
 ---
+![谷歌Docs和Sheets中的人工智能功能](https://freeaitool.com/wp-content/uploads/2023/07/image-1690019670262.jpg)
 谷歌在其广受欢迎的文档和表格生产力应用程序中推出多项新的人工智能 (AI) 支持功能。 这些更新利用自然语言处理的进步为用户提供有用的写作建议、数据见解等。
 
 Google文档功能包括辅助写作，它可以在您键入时提供语法更正和文体建议，以帮助提高您的写作水平。 还有一个新的摘要功能，可以自动生成长文档的简洁概述。
@@ -13,6 +18,7 @@ Google文档功能包括辅助写作，它可以在您键入时提供语法更�
 对于Google Sheets表格，Google 推出了公式帮助，它提供了帮助根据数据上下文构建公式的建议。 探索功能可生成有关电子表格的有趣数据见解，突出显示趋势、异常值等。
 
 文档和表格中的新智能功能使用 Google 先进的自然语言处理模型，为用户提供量身定制的个性化建议。 
+<!-- more -->
 
 以下是使用新AI功能的方法和例子。
 

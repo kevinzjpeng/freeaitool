@@ -1,6 +1,7 @@
 site_name: 免费的AI工具箱
 theme:
   name: material
+  custom_dir: material/overrides
   logo: assets/logo.png
   favicon: assets/favicon.png
   palette:
@@ -8,7 +9,6 @@ theme:
     toggle:
       icon: material/link
       name: Switch to light mode
-  custom_dir: overrides
   extra:
     homepage: https://freeaitool.com
   features:
@@ -17,6 +17,8 @@ theme:
   font:
     text: Roboto
     code: Roboto Mono
+
+copyright: Copyright &copy; 2016 - 2023 Free AI Tool 
 
 plugins:
   - search:
@@ -30,9 +32,9 @@ plugins:
       permalink: blog/{slug}.html
       rss: rss.xml
       limit: 5
-      feed_description: My Docs Blog
+      feed_description: Free AI Tool Blog
       feed_image: images/logo.png
-      feed_author: My Docs
+      feed_author: Kevin
       feed_author_email:
 
 extra:
@@ -46,10 +48,15 @@ extra:
   social:
     - icon: fontawesome/brands/github
       link: https://github.com/kevinzjpeng/freeaitool
-
+  blog:
+    dir: blog
+    author: Kevin Peng
+    author_image: https://avatars.githubusercontent.com/u/1113470
+    words_read_per_minute: 300
+    list_length: 25
+    extended_preview: true
 nav:
-  - Home: index.md
+  - 首页: index.md
   - 博客:
     - blog/index.md
-  - 工具:
-    - blog/index.md
+    

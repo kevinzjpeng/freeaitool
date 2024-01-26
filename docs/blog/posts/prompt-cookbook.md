@@ -1,15 +1,26 @@
 ---
 title: ChatGPT Prompt提示词大全
 date: 2023-07-16 # date
+authors: [kevinpeng]
+slug: prompt-cookbook
+categories:
+  - 提示词
+tags:
+  - chatGPT
+  - prompt
+  - 提示词
 ---
 
 ## 关于ChatGPT提示词 (Prompts)
+
+![Prompt大全](https://freeaitool.com/wp-content/uploads/2023/07/image-1689520592641.jpg)
 
 ChatGPT是一个大型语言模型，旨在提供智能对话和文本生成的能力。它利用预设的提示词（prompts）来引导和指导模型生成特定的回复或文本。
 
 提示词是用户提供给ChatGPT的短语或句子，作为对话或文本生成的起点。模型根据提示词的信息和上下文来推理和生成回复。通过合理设置提示词，用户可以引导模型生成特定主题的文本或回答特定的问题。
 
 提示词可以是简短的问题、陈述性的句子、不完整的句子，甚至是完整的段落。通常，提示词需要包含足够的信息来指导模型生成有意义的回复。为了提高准确性和可读性，提示词的表达应该清晰、简洁，并尽量避免歧义。
+<!-- more -->
 
 简单例子：
 1. 用户提示词："明天的天气如何？"

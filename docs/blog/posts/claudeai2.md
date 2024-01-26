@@ -1,11 +1,20 @@
 ---
 title: 一个免费的ChatGPT - ClaudeAI 2
-date: 2023-07-16 # date
+date: 2023-07-16
+authors: [kevinpeng]
+slug: claudeai2
+categories:
+  - AI助手
+tags:
+  - chatGPT
+  - claude.ai
 ---
+![ClaudeAI 2](https://freeaitool.com/wp-content/uploads/2023/07/image-1689474725703.jpg)
 近年来，人工智能取得了巨大进步。 最令人兴奋的应用之一是以ChatGPT为代表的对话式人工智能助手，它可以与人进行对话式的讨论。 Anthropic公司开发了最令人印象深刻的对话人工智能之一，名为 Claude。
 
 ## 关于Claude
 Claude 是由 Anthropic 创建的人工智能助手，Anthropic 是一家由 Dario Amodei 和 Daniela Amodei 于 2021 年创立的初创公司。Claude 建立在 Anthropic 自己在自然语言处理和机器学习方面的研发基础上。
+<!-- more -->
 
 Claude 的一些关键能力包括：
 

@@ -1,12 +1,22 @@
 ---
 title: 本地部署的Stable Diffusion App - Diffusion Bee
 date: 2023-07-16 # date
+slug: diffusion-bee
+authors: [kevinpeng]
+categories:
+  - AI助手
+tags:
+  - chatGPT
+  - claude.ai
 ---
+![本地部署的Stable Diffusion](https://freeaitool.com/wp-content/uploads/2023/07/image-1689510257773.jpg)
 在本地安装 Stable Diffusion 最简单、最用户友好的方法是使用 Diffusion Bee 安装程序。Diffusion Bee 是一款图形用户界面 (GUI) 应用程序，网站提供 Mac和Windows 的安装包形式的一键安装程序。以下是在Mac使用 Diffusion Bee 安装 Stable Diffusion 的步骤：
 
 1. 前往DiffusionBee[下载页面](https://diffusionbee.com/download "下载页面")并下载安装程序，请确保选择正确的CPU类型。
 2. 双击以在 Finder 中运行下载的 dmg 文件。将显示以下窗口。
 3. 将左侧的 DiffusionBee 图标拖至右侧的“应用程序”文件夹。
+<!-- more -->
+
 ![file](https://freeaitool.com/wp-content/uploads/2023/07/image-1689504930550.jpg)
 
 就是这样！完成这些步骤后，Stable Diffusion 将安装完毕并可以在您的 Mac 操作系统上使用。
