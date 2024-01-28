@@ -87,6 +87,14 @@ extra:
 
 nav:
   - 首页: index.md
+  - 知识:
+    - blog/category/知识/
+  - 图像:
+    - blog/category/图像/
+  - AI助手:
+    - blog/category/ai助手/
+  - 提示词:
+    - blog/category/提示词/
   - 博客:
     - blog/index.md
     
