@@ -9,7 +9,7 @@ tags:
   - chatGPT
   - claude.ai
 ---
-![ClaudeAI 2](https://freeaitool.com/wp-content/uploads/2023/07/image-1689474725703.jpg)
+![ClaudeAI 2](https://res.makeronsite.com/freeaitool.com/claudeai2.jpeg)
 近年来，人工智能取得了巨大进步。 最令人兴奋的应用之一是以ChatGPT为代表的对话式人工智能助手，它可以与人进行对话式的讨论。 Anthropic公司开发了最令人印象深刻的对话人工智能之一，名为 Claude。
 
 ## 关于Claude

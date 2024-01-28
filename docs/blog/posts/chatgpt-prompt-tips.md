@@ -11,7 +11,7 @@ tags:
   - 提示词
   - 技巧
 ---
-![提示词大师](https://freeaitool.com/wp-content/uploads/2023/07/image-1690017564282.jpg)
+![提示词大师](https://res.makeronsite.com/freeaitool.com/chatgpt-tips.jpeg)
 
 ChatGPT 席卷了世界，提供了令人惊叹的类人对话能力。 然而，制作完美的提示是充分利用这个强大的人工智能的关键。 掌握提示将让您充分发挥 ChatGPT 的潜力。 掌握这 10 个技巧，帮助您成为 ChatGPT 提示向导！
 

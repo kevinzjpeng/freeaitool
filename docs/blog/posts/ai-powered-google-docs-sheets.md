@@ -10,7 +10,7 @@ tags:
   - Google Docs
   - Google Sheet
 ---
-![谷歌Docs和Sheets中的人工智能功能](https://freeaitool.com/wp-content/uploads/2023/07/image-1690019670262.jpg)
+![谷歌Docs和Sheets中的人工智能功能](https://res.makeronsite.com/freeaitool.com/google-doc-ai.jpeg)
 谷歌在其广受欢迎的文档和表格生产力应用程序中推出多项新的人工智能 (AI) 支持功能。 这些更新利用自然语言处理的进步为用户提供有用的写作建议、数据见解等。
 
 Google文档功能包括辅助写作，它可以在您键入时提供语法更正和文体建议，以帮助提高您的写作水平。 还有一个新的摘要功能，可以自动生成长文档的简洁概述。

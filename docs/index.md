@@ -7,11 +7,11 @@ social:
 ---
 
 <div class="grid cards" markdown>
--   :material-clock-fast:{ .lg .middle } __免费的AI文生图网站__
+-   __免费的AI文生图网站__
 
     ---
 
-    ![免费的AI文生图网站](https://freeaitool.com/wp-content/uploads/2024/01/krea-scaled.jpg)
+    ![免费的AI文生图网站](https://res.makeronsite.com/freeaitool.com/krea.jpg)
 
     ---
 
@@ -19,11 +19,11 @@ social:
 
     [:octicons-arrow-right-24: 阅读](/blog/2023/07/22/ai-powered-google-docs-sheets)
 
--   :fontawesome-brands-markdown:{ .lg .middle } __尝鲜谷歌Docs和Sheets中的人工智能功能__
+-   __尝鲜谷歌Docs和Sheets中的人工智能功能__
 
     ---
 
-    ![尝鲜谷歌Docs和Sheets中的人工智能功能](https://freeaitool.com/wp-content/uploads/2023/07/image-1690019670262.jpg)
+    ![尝鲜谷歌Docs和Sheets中的人工智能功能](https://res.makeronsite.com/freeaitool.com/google-doc-ai.jpeg)
 
     ---
 
@@ -31,11 +31,11 @@ social:
 
     [:octicons-arrow-right-24: 阅读](/blog/2023/07/23/free-ai-image-gen)
 
--   :material-format-font:{ .lg .middle } __掌握这10 个技巧助你成为 ChatGPT 提示词大师__
+-   __掌握这10 个技巧助你成为 ChatGPT 提示词大师__
 
     ---
 
-    ![提示词大师](https://freeaitool.com/wp-content/uploads/2023/07/image-1690017564282.jpg)
+    ![提示词大师](https://res.makeronsite.com/freeaitool.com/chatgpt-tips.jpeg)
 
     ---
     ChatGPT 席卷了世界，提供了令人惊叹的类人对话能力。 然而，制作完美的提示是充分利用这个强大的人工智能的关键。 掌握提示将让您充分发挥 ChatGPT 的潜力。 掌握这 10 个技巧，帮助您成为 ChatGPT 提示向导！

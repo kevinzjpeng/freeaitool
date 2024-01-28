@@ -8,7 +8,7 @@ categories:
 tags:
   - 图像
 ---
-![本地部署的Stable Diffusion](https://freeaitool.com/wp-content/uploads/2023/07/image-1689510257773.jpg)
+![本地部署的Stable Diffusion](https://res.makeronsite.com/freeaitool.com/diffusion-bee.jpeg)
 在本地安装 Stable Diffusion 最简单、最用户友好的方法是使用 Diffusion Bee 安装程序。Diffusion Bee 是一款图形用户界面 (GUI) 应用程序，网站提供 Mac和Windows 的安装包形式的一键安装程序。以下是在Mac使用 Diffusion Bee 安装 Stable Diffusion 的步骤：
 
 1. 前往DiffusionBee[下载页面](https://diffusionbee.com/download "下载页面")并下载安装程序，请确保选择正确的CPU类型。

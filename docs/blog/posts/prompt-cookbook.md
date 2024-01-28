@@ -13,7 +13,7 @@ tags:
 
 ## 关于ChatGPT提示词 (Prompts)
 
-![Prompt大全](https://freeaitool.com/wp-content/uploads/2023/07/image-1689520592641.jpg)
+![Prompt大全](https://res.makeronsite.com/freeaitool.com/prompt-cookbook.jpeg)
 
 ChatGPT是一个大型语言模型，旨在提供智能对话和文本生成的能力。它利用预设的提示词（prompts）来引导和指导模型生成特定的回复或文本。
 

@@ -10,7 +10,7 @@ tags:
     - GPT数据集
     - PIQA
 ---
-![GPT模型数据集](https://freeaitool.com/wp-content/uploads/2023/07/image-1690500639862.jpg)
+![GPT模型数据集](https://res.makeronsite.com/freeaitool.com/ai-training.jpeg)
 人工智能的发展在过去几年中取得了巨大的进步，其中自然语言处理（NLP）领域的GPT模型备受关注。GPT模型是一系列基于Transformer架构的自然语言处理模型，其表现出色的语言生成能力和广泛应用领域引起了广泛关注。在了解GPT模型的同时，我们不得不提及一些重要的数据集，如BoolQ、PIQA、HellaSwag、WinoGrande和ARC系列数据集，它们为GPT模型的发展和应用提供了宝贵资源。
 <!-- more -->
 
