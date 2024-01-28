@@ -68,6 +68,22 @@ extra:
     list_length: 25
     extended_preview: true
   generator: false
+  analytics:
+    provider: google
+    property: G-H9VGEGXRSK
+    feedback:
+      title: Was this page helpful?
+      ratings:
+        - icon: material/heart
+          name: This page was helpful
+          data: 1
+          note: >-
+            Thanks for your feedback!
+        - icon: material/heart-broken
+          name: This page could be improved
+          data: 0
+          note: >-
+            Thanks for your feedback! How could this page be improved?
 
 nav:
   - 首页: index.md
