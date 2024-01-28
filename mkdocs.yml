@@ -20,6 +20,13 @@ theme:
 
 copyright: Copyright &copy; 2016 - 2023 Free AI Tool 
 
+markdown_extensions: 
+  - attr_list
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+  - md_in_html
+
 plugins:
   - search:
       separator: '[\s\u200b\-_,:!=\[\]()"`/]+|\.(?!\d)|&[lg]t;|(?!\b)(?=[A-Z][a-z])'
@@ -36,6 +43,11 @@ plugins:
       feed_image: images/logo.png
       feed_author: Kevin
       feed_author_email:
+      categories_allowed:
+        - 提示词
+        - 知识
+        - 图像
+        - AI助手
 
 extra:
   consent:
@@ -55,6 +67,8 @@ extra:
     words_read_per_minute: 300
     list_length: 25
     extended_preview: true
+  generator: false
+
 nav:
   - 首页: index.md
   - 博客:

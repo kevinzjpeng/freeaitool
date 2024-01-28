@@ -4,7 +4,7 @@
 {% extends "main.html" %}
 {% block tabs %}
   {{ super() }}
-  <style>.md-header{position:initial}.md-main__inner{margin:0}.md-content{display:none}@media screen and (min-width:60em){.md-sidebar--secondary{display:none}}@media screen and (min-width:76.25em){.md-sidebar--primary{display:none}}</style>
+  <style>.md-header{position:initial}.md-sidebar{display:none;}@media screen and (min-width:60em){.md-sidebar--secondary{display:none}}@media screen and (min-width:76.25em){.md-sidebar--primary{display:none}}</style>
   <section class="mdx-container">
     <div class="md-grid md-typeset">
       <div class="mdx-hero">
@@ -21,30 +21,16 @@
       </div>
     </div>
   </section>
-
-  <section class="product-close-up">
-    <div class="container">
-      <div class="product-close-up-content">
-        <div class="product-image">
-          <img src="https://freeaitool.com/wp-content/uploads/2024/01/krea-scaled.jpg" alt="Krea">
-        </div>
-        <div class="product-description">
-          <h1><a href="/blog/2023/07/23/free-ai-image-gen/" title="免费的AI文生图网站" class="md-button md-button--primary">免费的AI文生图网站</a></h1>
-          <p>想轻松获取AI生成图片?快来看看这四款工具!Microsoft Designer基于Bing研发,可智能生成及编辑图片。StableDiffusionWeb Demo无需注册就可体验稳定散射模型,但广告较多。Craiyon生成等待时间长,但可无限呈现想象。最后Krea AI快速生成近乎实时,甚至可利用摄像头改图。这四款图像生成神器各有千秋,利用不同技术与特点,为用户提供便捷的AI创图体验。无论需速度、质量、还是易用性,均可找到合适的利器。</p>
-        </div>
-      </div>
-  
-      <div class="product-close-up-content reverse-layout">
-        <div class="product-image">
-          <img src="https://freeaitool.com/wp-content/uploads/2023/07/image-1690019670262.jpg" alt="Google AI">
-        </div>
-        <div class="product-description">
-          <h1><a href="/blog/2023/07/22/ai-powered-google-docs-sheets/" title="尝鲜谷歌Docs和Sheets中的人工智能功能" class="md-button md-button--primary">尝鲜谷歌Docs和Sheets中的人工智能功能</a></h1>
-          <p>It allows a macOS host to control a target device, compatible with Windows, macOS, Linux, Android, iOS.谷歌在其广受欢迎的文档和表格生产力应用程序中推出多项新的人工智能 (AI) 支持功能。 这些更新利用自然语言处理的进步为用户提供有用的写作建议、数据见解等。</p>
-        </div>
-      </div>
-    </div>
-  </section>
 {% endblock %}
-{% block content %}{% endblock %}
-{% block footer %}{% endblock %}
+{% block content %}
+<style>.md-sidebar{display:none !important;}</style>
+<h1 style="display:none"></h1>
+{{ super() }}
+{% endblock %}
+
+{% block navigation %}{% endblock %}
+{% block toc %}{% endblock %}
+
+{% block footer %} 
+{{ super() }}
+{% endblock %}
