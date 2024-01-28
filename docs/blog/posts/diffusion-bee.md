@@ -4,9 +4,10 @@ date: 2023-07-16 # date
 slug: diffusion-bee
 authors: [kevinpeng]
 categories:
-  - AI助手
-tags:
   - 图像
+tags:
+  - Stable Diffusion
+  - Diffusion Bee
 ---
 ![本地部署的Stable Diffusion](https://res.makeronsite.com/freeaitool.com/diffusion-bee.jpeg)
 在本地安装 Stable Diffusion 最简单、最用户友好的方法是使用 Diffusion Bee 安装程序。Diffusion Bee 是一款图形用户界面 (GUI) 应用程序，网站提供 Mac和Windows 的安装包形式的一键安装程序。以下是在Mac使用 Diffusion Bee 安装 Stable Diffusion 的步骤：
