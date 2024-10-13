@@ -4,7 +4,7 @@ date: 2024-10-13
 authors: [kevinpeng]
 slug: cursor-best-practice
 categories:
-  - AI编码
+  - AI助手
 tags:
   - AI
   - Cursor
