@@ -1,3 +1,15 @@
+---
+title: 使用 Cursor 的最佳实践
+date: 2024-10-13
+authors: [kevinpeng]
+slug: cursor-best-practice
+categories:
+  - AI编码
+tags:
+  - AI
+  - Cursor
+---
+
 ## 使用 Cursor 的最佳实践
 
 AI 编码助手 Cursor 的出现彻底改变了软件开发，为提高效率和生产力提供了前所未有的机会。 然而，要有效地利用这些工具的强大功能，需要清楚地了解它们的功能和局限性。 本博客文章探讨了与 AI 编码助手进行通信和使用它们的关键策略，使您能够实现预期的结果。
